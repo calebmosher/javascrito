@@ -43,11 +43,11 @@ función () {
 }
 
 tipode _ === 'objeto'
-
+```
 
 
 ## Classes
-
+```
 clase _ extiende __ {}
 
 función () {
