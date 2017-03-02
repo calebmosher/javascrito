@@ -1,17 +1,16 @@
 # Javascrito Documentación
 
 
-
 ## Variables
-
+```
 var
 const
 deja
-
+```
 
 
 ## Loops
-
+```
 por (;;) {}
 mientras () {}
 haz {} mientras ()
@@ -20,11 +19,11 @@ por (;;) {
   si () rompe;
   si () continúa;
 }
-
+```
 
 
 ## Conditionals
-
+```
 si () {}
 si no si () {}
 si no {}
@@ -34,11 +33,11 @@ cambia () {
     rompe;
   base:
 }
-
+```
 
 
 ## Functions, Types
-
+```
 función () {
   regresa parámetros[0];
 }
@@ -56,43 +55,43 @@ función () {
 }
 
 const _ = nuevo __();
-
+```
 
 
 ## Errors
-
+```
 trata {
-  lanza _;
+  tira _;
 }
 coge () {}
 
 depurador;
-
+```
 
 
 ## Objects
-
+```
 eliminar _.__;
 
 si (_ en __) {}
 por (_ en __) {}
 por (_ de __) {}
-
+```
 
 
 ## Literals
-
+```
 cierto
 falso
 
 nulo
 indefinido
 NeN (No es Número)
-
+```
 
 
 ## Built-in Classes
-
+```
 Objeto()
 Función()
 Booleano()
@@ -109,4 +108,4 @@ ExpReg()
 Matríz()
 Mapa()
 Conjunto()
-
+```
